@@ -1,0 +1,3 @@
+把封面照片放在這個資料夾。
+預設：image1.png（東京）、image2.png（大邱大田）、image3.png（河西走廊）。
+也可以用其他檔名，再修改 index.html 的 image 欄位即可。
